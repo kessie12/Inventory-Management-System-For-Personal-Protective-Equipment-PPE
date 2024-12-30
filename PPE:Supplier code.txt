@@ -1,0 +1,16 @@
+HC	Head Cover
+FS	Face Shield
+MS	Mask
+GL	Gloves
+GW	Gown
+SC	Shoe Covers
+
+
+S1	Supplier1
+S2	Supplier2
+S3	Supplier3
+
+
+H1	Hospital1
+H2	Hospital2
+H3	Hospital3
